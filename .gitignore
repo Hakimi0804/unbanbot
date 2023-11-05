@@ -1,0 +1,11 @@
+# poetry
+dist/
+
+# logs
+*.log
+
+# pyrogram
+*.session
+
+# python
+__pycache__/
